@@ -44,7 +44,7 @@ Também é possível **remover itens da lista** e impedir a inserção de **prod
 🔹 Lista com Produtos
 
 *(imagem da lista com itens adicionados)*
-![Resultado](/src/assets/image/preview-finalgit.png)
+![Resultado](/src/assets/image/preview-final.png)
 ---
 
 ## 📚 Conceitos Trabalhados
