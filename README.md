@@ -39,11 +39,12 @@ Também é possível **remover itens da lista** e impedir a inserção de **prod
 🔹 Tela Inicial
 
 *(imagem da interface antes de adicionar produtos)*
+![Tela Inicial](./src/assets/image/preview-inicial.png)
 
 🔹 Lista com Produtos
 
 *(imagem da lista com itens adicionados)*
-
+![Resultado](./src/assets/image/preview-inicial.png)
 ---
 
 ## 📚 Conceitos Trabalhados
